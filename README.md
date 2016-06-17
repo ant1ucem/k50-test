@@ -1,5 +1,5 @@
-Generate permutations:
-`php gen.php`
+Casino variant:
+`php casino.php --fieldsCount 36 --chipCount 18`
 
-Test:
+Test algorithm:
 `php test.php`

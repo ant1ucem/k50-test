@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * https://gist.github.com/zachflower/031e2f30f07e6c286ab8
+ *
+ *
+ * Class Node
+ */
+
 class Node {
     public $data = NULL;
     public $next = NULL;

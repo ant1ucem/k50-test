@@ -58,6 +58,5 @@ class MultiPermute {
 
             $callback(self::visit($head));
         }
-
     }
 }
